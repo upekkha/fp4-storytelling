@@ -7,3 +7,5 @@ IPython notebook containing some very basic data analysis on the EU-funded resea
   * [Analyze CORDIS data project page](http://make.opendata.ch/wiki/project:analyzecordis)
   * [CORDIS FP4 research projects (1994-1998)](https://open-data.europa.eu/en/data/dataset/cordisfp4projects)
   * [SoDa Blog Posting](http://blog.soda.camp/004/)
+
+> Licensed under Creative Commons (BY)
